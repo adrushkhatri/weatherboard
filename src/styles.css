@@ -329,3 +329,7 @@ aside {
     font-size: 48px;
   }
 }
+
+input[type='time'] ~ button {
+  margin-top: 10px;
+}
