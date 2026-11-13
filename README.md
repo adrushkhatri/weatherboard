@@ -1,5 +1,9 @@
 # WeatherBoard
-Installable weather PWA (React + Vite, client-side only). **Live URL:** _add after deploy_
+Installable weather PWA (React + Vite, client-side only). 
+
+**Live URL:** https://weatherboard-eosin.vercel.app/
+
+**GITHUB URL:** https://github.com/adrushkhatri/weatherboard
 
 ## Setup
 ```
